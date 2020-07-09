@@ -1,6 +1,6 @@
 ## Witt
 
-Hello, I'm Witt (Chinese name: *zhendong.li*) -- A JavaScript full-stack engineer,
+Hello 👋, I'm Witt (Chinese name: *zhendong.li*) -- A JavaScript full-stack engineer,
 I'm creating apps and libs to help improve the developer experience. currently a freelancer.
 
 I'm not working full-time on open source right now, but I still spend a lot of time creating and maintaining OSS projects.
