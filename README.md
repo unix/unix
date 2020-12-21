@@ -3,8 +3,7 @@
 Hello 👋, I'm Witt (Chinese name: *zhendong.li*) -- A JavaScript full-stack engineer,
 I'm creating apps and libs to help improve the developer experience. currently a freelancer.
 
-I'm not working full-time on open source right now, but I still spend a lot of time creating and maintaining OSS projects.
-Any sponsorship from the community will greatly inspire me, thanks to everyone.
+I'm not working full-time on open source right now. And I closed the Sponsors from GitHub because of lack of time to maintain OSS recently.
 
 ## Styles
 
